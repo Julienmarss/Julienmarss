@@ -73,7 +73,5 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMxb2Y2M293ejhya2hwbDU4bHBqNm9xOGhzOThwODFlc2pyZGszayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"  />
-
 ###
 ###

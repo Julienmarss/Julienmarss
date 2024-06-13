@@ -1,4 +1,4 @@
-<h1 align="left">👋 My name is Julien, also known as SKillOfFire.</h1>
+<h1 align="left">👋 My name is Julien, also known as SkillOfFire.</h1>
 
 ###
 

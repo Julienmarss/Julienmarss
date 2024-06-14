@@ -112,7 +112,7 @@
 
 <li>
 <a href="mailto:julien.mars@epitech.eu" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  julien.mars-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  julien.mars@epitech.eu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	

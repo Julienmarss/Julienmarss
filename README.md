@@ -16,11 +16,10 @@
 
 <br>
 
+- Student at Epitech Lille (Tek2)
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Personal website (Update soon) [link](https://www.julien-mars.fr)
 
 <br><br>
 
@@ -106,7 +105,7 @@
 
 <li>
 <a href="https://linkedin.com/in/julienmars" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  julien-mars-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:   julienmars-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 

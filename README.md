@@ -17,7 +17,7 @@
 - Student at Epitech Lille (Tek2)
 - A passionate Self-taught Java developer
 - Currently learning Web Development by Self
-- Personal website (Update soon) [link](https://www.julien-mars.fr)
+- Personal website (Currently updating) [link](https://www.julien-mars.fr)
 
 <br><br>
 

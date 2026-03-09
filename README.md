@@ -1,10 +1,14 @@
-<h1 align="center"><b>Hi, I'm Julien MARS, also known as SkillOfFire</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%40+Epitech;Deploying+to+prod+on+Fridays+since+2022+%F0%9F%98%88;kubectl+apply+-f+my-life.yaml;Cloud+%26+DevOps+Enjoyer+%E2%98%81%EF%B8%8F;Still+reading+the+docs...+always+%F0%9F%93%96">
-  </a>
-</p>
+# `> Julien Mars <`
+
+**SkillOfFire** · Full-Stack Dev · Cloud Tinkerer · Epitech Tek3
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=650&height=60&lines=git+commit+-m+%22learned+something+new+again%22;kubectl+apply+-f+prod.yaml+%23+reckless+%F0%9F%98%88;npm+install+another-framework;console.log(%22still+alive%22)+%2F%2F+somehow;docker+ps+%7C+grep+%22running%22+%23+praying;aws+s3+cp+my-brain.zip+s3%3A%2F%2Fprod-bucket)](https://github.com/julienmarss)
+
+</div>
 
 <br>
 
@@ -14,8 +18,7 @@
 
 - 🎓 Student at **Epitech Lille (Tek3)**
 - 🔥 Passionate Full-Stack & Cloud Developer
-- ☁️ Breaking things in prod and fixing them even faster
-- 🤖 Playing with AI, RAG pipelines & cloud infra for fun
+- 🤖 Playing with AI, RAG pipelines & cloud infra
 - 🌍 Personal website : [julienmars.fr](http://julienmars.fr)
 - 💬 Ask me about anything... I'll probably have a Stack Overflow tab open already
 
@@ -86,16 +89,15 @@
 
 <div align="center">
 
-<a href="https://github.com/julienmarss/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julienmarss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julienmarss&locale=en&hide_title=false&layout=compact&card_width=300&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="375"/>
-</a>
+<!-- Stats générales — instance auto-hébergée plus stable -->
+<img src="https://gh-readme-stats.deno.dev/api?username=Julienmarss&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=00CFFF&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" width="450"/>
+<!-- Top languages -->
+<img src="https://gh-readme-stats.deno.dev/api/top-langs?username=Julienmarss&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&card_width=300" width="340"/>
 
 <br><br>
 
-<a href="https://github.com/julienmarss/">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Julienmarss&theme=tokyonight&hide_border=true&background=0,000000,130F40&stroke=7A7ADB&ring=2234AE&fire=cyan&currStreakLabel=cyan" width="450"/>
-</a>
+<!-- Streak stats — service stable -->
+<img src="https://streak-stats.demolab.com?user=Julienmarss&theme=tokyonight&hide_border=true&background=00000000&stroke=7A7ADB&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=D3D3D3&dates=D3D3D3&sideNums=7A7ADB" width="480"/>
 
 </div>
 
@@ -132,5 +134,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Julienmarss&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Julienmarss&style=for-the-badge&color=7A7ADB" alt="Profile views"/>
 </div>
